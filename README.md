@@ -26,5 +26,5 @@ https://hermawanarby.github.io/
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 ## Feedback
-If you have any feedback, please reach out to us at hermawanarby@gmail.com
+If you have any feedback, please reach out to us at hermawanarby2@gmail.com
 
